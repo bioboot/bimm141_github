@@ -1,10 +1,10 @@
 ---
 title: "Class 6: R functions"
 author: "Barry (PID: 911)"
-format: typst
+format: gfm
 ---
 
-Today we are going to explore R functions and begin to think about writting our own functions.
+Today we are going to explore R functions and begin to think about writing our own functions.
 
 Let's start simple and write our first function to add some numbers.
 
